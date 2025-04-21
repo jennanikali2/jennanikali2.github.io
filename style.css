@@ -1,0 +1,39 @@
+.top-right-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 5px;
+    background-color: lightskyblue;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+body{
+    background-color: palevioletred;
+    background-image: url("C:\Users\jenna\OneDrive\Kuvat\marimekkovalkoinen.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding; 20px;
+}
+
+h1 {
+    border: 2px solid beige;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    border: 2px dashed beige;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+p{
+    background-color: lightcyan;
+    border: 2px solid beige;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
