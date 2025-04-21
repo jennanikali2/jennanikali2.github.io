@@ -11,7 +11,7 @@
 
 body{
     background-color: palevioletred;
-    background-image: url("C:\Users\jenna\OneDrive\Kuvat\marimekkovalkoinen.jpg");
+    background-image: url(marimekkovalkoinen.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
