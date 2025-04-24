@@ -1,0 +1,35 @@
+#header {
+    background-color: #FAEBD7;
+}
+
+#nav {
+    background-color: hsl(0, 69%, 86%);
+}
+
+#section {
+    background-color: #DDA0DD;
+    flex: 3;
+}
+
+#body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#article {
+    background-color: lightgoldenrodyellow;
+}
+
+#aside {
+    background-color: rgb(215, 219, 224);
+    flex: 1;
+}
+
+#footer {
+    background-color: beige;
+}
+
+#container {
+    display: flex;
+}
